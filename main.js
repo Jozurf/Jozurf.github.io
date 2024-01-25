@@ -1,7 +1,7 @@
 let identifyButton = document.getElementById("identify");
 let myHeading = document.querySelector("h1");
 
-myHeading.textContent = `Welcome to Jozurf's DS 4200 website, Annonymous`;
+myHeading.textContent = `Welcome to Joseph Trisnandi's DS 4200 website, Annonymous`;
 
 function setUserName() {
     let myName = prompt("state thy name");
